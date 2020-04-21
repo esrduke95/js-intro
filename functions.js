@@ -19,9 +19,9 @@ const someThing = (13) => {
 }
 console.log();
 
-const birthYear = (1995) ; {
-  return 2099 -= birthYear;
+const age = (birthyear) ; {
+  return 2099 - birthYear;
 }
-console.log(birthYear);
+console.log(1995);
 
 //these do not work which makes me very sad//
